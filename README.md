@@ -22,10 +22,8 @@ O notebook `traffic_volume.ipynb` explora um conjunto de dados reais de tráfego
 A análise foi desenvolvida no **Google Colab** com o uso das seguintes bibliotecas Python:
 
 - `pandas` — manipulação e tratamento de dados  
-- `matplotlib` e `seaborn` — visualização de dados  
-- `numpy` — operações numéricas  
-- `datetime` — manipulação de dados temporais  
-
+- `matplotlib` — visualização de dados  
+ 
 ---
 
 ##  Principais Insights
